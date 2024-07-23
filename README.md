@@ -50,7 +50,7 @@ jupyter notebook main.ipynb
 ```
 
 ## Run the evaluation
-To run the server, run the following command (go to the directory first):
+To run the evaluation, run the following command (go to the directory first):
 ```bash
 jupyter notebook model_evaluation.ipynb
 ```
